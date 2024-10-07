@@ -1,0 +1,22 @@
+{
+        "users": [
+            {
+                "id": 1,
+                "firstName": "Péter",
+                "lastName": "Kovács",
+                "email": "p.kovacs@example.com"
+            },
+            {
+                "id": 2,
+                "firstName": "Zsuzsanna",
+                "lastName": "Nagy",
+                "email": "z.nagy@example.com"
+            },
+            {
+                "id": 3,
+                "firstName": "László",
+                "lastName": "Tóth",
+                "email": "l.toth@example.com"
+            }
+        ]
+    }
